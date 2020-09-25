@@ -1,5 +1,9 @@
 # Finance Logger
 
-Learning Typescript!!!
+Simple Finance Logger App using Typescript!!!
 
-### Run `npm install`
+### Run
+
+- `npm install`
+- `tsc -w`
+- Open Live-server
