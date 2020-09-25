@@ -1,6 +1,8 @@
 # Finance Logger
 
-Simple Finance Logger App using Typescript!!!
+A finance app to log incoming & outgoing payments to help manage cashflow.
+
+> Built with TypeScript!!
 
 ### Run
 
