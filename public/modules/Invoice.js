@@ -1,5 +1,6 @@
 export class Invoice {
-    constructor(client, details, amount) {
+    constructor(type, client, details, amount) {
+        this.type = type;
         this.client = client;
         this.details = details;
         this.amount = amount;
