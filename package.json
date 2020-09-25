@@ -1,0 +1,23 @@
+{
+  "name": "finance-logger",
+  "version": "1.0.0",
+  "description": "A finance app to log incoming & outgoing payments to help manage cashflow.",
+  "main": "app.js",
+  "dependencies": {
+    "typescript": "^4.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rohan-Shakya/finance-logger.git"
+  },
+  "author": "Rohan Shakya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rohan-Shakya/finance-logger/issues"
+  },
+  "homepage": "https://github.com/Rohan-Shakya/finance-logger#readme"
+}
